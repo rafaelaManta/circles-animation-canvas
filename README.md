@@ -1,3 +1,3 @@
 # A simple canvas animation
 Demo
-https://r-manta.github.io/circles-animation-canvas/
+https://rafaelamanta.github.io/circles-animation-canvas/
